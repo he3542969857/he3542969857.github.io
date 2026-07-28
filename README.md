@@ -2,7 +2,7 @@
 
 Minimal personal page for OpenReview registration. Hosted free on GitHub Pages.
 
-Final URL (after publishing): **https://hejian0818.github.io**
+Final URL (after publishing): **https://he3542969857.github.io**
 
 ---
 
@@ -22,7 +22,7 @@ with the email you registered with on OpenReview.
 
 ## 🚀 How to publish (one-time, ~2 minutes)
 
-You need a GitHub repo **named exactly** `hejian0818.github.io` (your username +
+You need a GitHub repo **named exactly** `he3542969857.github.io` (your username +
 `.github.io`). Then any file pushed to it becomes live at the URL above.
 
 ### Option A — from the terminal (if you have `gh` CLI)
@@ -34,20 +34,20 @@ git init
 git add .
 git commit -m "Initial personal homepage"
 
-gh repo create hejian0818.github.io --public --source=. --push
+gh repo create he3542969857.github.io --public --source=. --push
 ```
 
 If you don't have `gh`, install it: `brew install gh && gh auth login`.
-(If `hejian0818.github.io` is taken on GitHub, use another username — the site URL
+(If `he3542969857.github.io` is taken on GitHub, use another username — the site URL
 must match `<username>.github.io`.)
 
 ### Option B — from the browser
 
 1. Go to https://github.com/new
-2. Repository name: `hejian0818.github.io`
+2. Repository name: `he3542969857.github.io`
 3. Set to **Public**, then **Create repository**
 4. Upload `index.html` (drag it in), commit
-5. Wait ~30s, open **https://hejian0818.github.io**
+5. Wait ~30s, open **https://he3542969857.github.io**
 
 ---
 
@@ -57,7 +57,7 @@ On OpenReview's "Personal Links" step, put the published URL in the
 **Homepage URL** field:
 
 ```
-https://hejian0818.github.io
+https://he3542969857.github.io
 ```
 
 Make sure it starts with `https://` (it does). The page shows your name
